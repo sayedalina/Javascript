@@ -1,0 +1,14 @@
+const prompt = require("prompt-sync")();
+let a=Number(prompt("enter a number :"));
+a+=5;
+console.log(a);
+a-=5;
+console.log(a);
+a*=5;
+console.log(a);
+a/=5;
+console.log(a);
+a%=5;
+console.log(a);
+a**=5;
+console.log(a);
