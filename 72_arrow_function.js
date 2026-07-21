@@ -1,0 +1,10 @@
+let num = (a,b) =>
+{
+    if(a>b){
+        console.log("a is greater");
+    }
+    else{
+        console.log("b is greater");
+    }
+};
+num(5,2);
